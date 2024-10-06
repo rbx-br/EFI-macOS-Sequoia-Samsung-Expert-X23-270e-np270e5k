@@ -1,0 +1,1 @@
+# EFI-macOS-Sequoia-Samsung-Expert-X23-270e-np270e5k
