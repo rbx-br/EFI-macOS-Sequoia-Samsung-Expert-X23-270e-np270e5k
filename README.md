@@ -45,7 +45,7 @@ HDMI / VGA
 
 iCloud
 
-WiFi ***(Needs OCLP to work)*** ***(+- 15Mbps on 802.11b / +- 25Mbps on 802.11g / +- 1Mbps on 802.11n)***
+WiFi ***(Needs OCLP to work)*** ***(~15Mbps on 802.11b / ~25Mbps on 802.11g / ~1Mbps on 802.11n)***
 Unfortunately, this board has extremely limited support from Mojave onwards and since it is soldered there is not much that can be done. It is necessary to change the PHY mode on the router.
 
 # ❌ Not working
