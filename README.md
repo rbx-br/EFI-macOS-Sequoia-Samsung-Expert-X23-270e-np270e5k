@@ -52,4 +52,4 @@ Unfortunately, this board has extremely limited support from Mojave onwards and 
 
 Internal Bluetooth
 
-![Print Specs](https://github.com/user-attachments/assets/4c22bd76-c0bf-4240-a4da-444344deece6)
+![System](https://github.com/user-attachments/assets/8e53f126-d138-4b55-a684-74f76a46c0b8)
