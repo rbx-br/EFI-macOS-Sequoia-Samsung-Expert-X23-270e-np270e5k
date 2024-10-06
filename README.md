@@ -1,8 +1,10 @@
 # Samsung Expert X23 (270E - NP270E5K)
-## macOS Sequioa 15 / OpenCore 1.0.1 / SMBIOS: MacBookPro16,3 for boot Sequoia
+## macOS Sequioa 15 / OpenCore 1.0.1
 ### OLCP 2.0.2 to patch Graphics and Wireless card
 
 ![Samsung](https://github.com/user-attachments/assets/6a9dceed-8151-4875-a01a-4ed64c895c4a)
+
+### SMBIOS: MacBookPro16,3 for boot macOS Sequoia
 
 ## Basic description:
 Intel® Core™ i7-5500U - Broadwell
@@ -39,7 +41,7 @@ Screen brightness control
 
 Ethernet
 
-HDMI
+HDMI / VGA
 
 iCloud
 
