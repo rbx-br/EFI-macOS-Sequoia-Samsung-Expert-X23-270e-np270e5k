@@ -50,6 +50,6 @@ Unfortunately, this board has extremely limited support from Mojave onwards and 
 
 # ❌ Not working
 
-Internal Bluetooth
+Internal Bluetooth ***(Works on Big Sur with the indicated kexts)***
 
 ![System](https://github.com/user-attachments/assets/8e53f126-d138-4b55-a684-74f76a46c0b8)
