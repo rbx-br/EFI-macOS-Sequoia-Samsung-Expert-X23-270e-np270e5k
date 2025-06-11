@@ -1,4 +1,4 @@
-# Samsung Expert X23 (270E - NP270E5K)
+# Samsung Expert X40 (270E - NP270E5K)
 ## macOS Sequioa 15 / OpenCore 1.0.1
 ### OLCP 2.0.2 to patch Graphics and Wireless card
 
