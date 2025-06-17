@@ -1,4 +1,4 @@
-# Samsung Expert X40 ***UPDATING SOON***
+# Samsung Expert X40 - ***UPDATING SOON***
 ## macOS Sequioa 15 / OpenCore 1.0.1
 ### OLCP 2.0.2 to patch Graphics and Wireless card
 
